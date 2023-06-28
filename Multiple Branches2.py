@@ -1,0 +1,1 @@
+print("We are Indians and always give time to Prayers")
